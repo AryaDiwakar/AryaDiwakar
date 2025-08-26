@@ -27,8 +27,7 @@ Currently exploring how **Generative AI, Data Science, and Full-Stack Developmen
 
 ---
 
-## 📊 GitHub Stats
-![Arya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryaDiwakar&show_icons=true&theme=radical)  
+## 📊 GitHub Stats 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaDiwakar&layout=compact&theme=radical)  
 
 ---

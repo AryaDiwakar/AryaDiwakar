@@ -18,10 +18,10 @@ Currently exploring how **Generative AI, Data Science, and Full-Stack Developmen
 
 ---
 
-## 📌 Featured Projects  
-- 🌐 [**VIT Stellar Website**](https://github.com/AryaDiwakar/VIT-STELLAR-WEBSITE) — Astronomy club website with animations & modern UI  
-- 📱 [**Aarvasa App**](https://github.com/AryaDiwakar/aarvasa_app) — Real-estate Flutter app with property search & custom UI  
-- 🎬 [**Movie Recommendation System**](#) — Personalized ML-based movie recommendation engine  
+## 📌 Top 3 Projects  
+- ⛏️ [**CommandGuard — Smart Operator Assistant**](https://github.com/AryaDiwakar/commandguard) — Full-stack operator co-pilot: causal telemetry simulator, explainable risk & incidents, replay, training, and a grounded RAG assistant · *FastAPI · React · TypeScript · WebSockets*  
+- 🏦 [**Autonomous Retail Banking Analytics Agent**](https://github.com/AryaDiwakar/banking-analytics-platform) — Autonomous analytics agent that explores, cleans, and reasons over retail banking data · *Python*  
+- 🗓️ [**Work Organiser**](https://github.com/AryaDiwakar/work-organiser) — Modern web app for organising and managing day-to-day work · *Next.js · TypeScript*  
 
 📂 Explore more in my [repositories](https://github.com/AryaDiwakar?tab=repositories)  
 
